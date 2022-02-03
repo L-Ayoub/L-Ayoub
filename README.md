@@ -3,8 +3,6 @@
 <h1 align="center">I'm Ayoub LOUJA <width="30px"></h1>
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m AYOUB LOUJA 
 - 🌱 I’m currently learning as much as possible
 - 👯 I’m interested in BIG DATA, BI and AI.
